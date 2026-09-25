@@ -64,15 +64,8 @@ squad.Attack();
 
 Например:
 
-Главный отряд
-│
-├── Воин
-├── Маг
-│
-└── Второй отряд
-     │
-     ├── Воин
-     └── Маг
+<img width="295" height="227" alt="image" src="https://github.com/user-attachments/assets/b3f4e17d-8da8-437f-a816-c4f862321019" />
+
 
 В Main() необходимо создать такую структуру.
 
@@ -105,22 +98,8 @@ Archer
 
 Например:
 
-Армия
-│
-├── Отряд 1
-│    ├── Warrior
-│    └── Archer
-│
-├── Отряд 2
-│    ├── Mage
-│    └── Mage
-│
-└── Отряд 3
-     └── Warrior
+<img width="287" height="387" alt="image" src="https://github.com/user-attachments/assets/2aaec840-299d-4c9d-b98e-8d5fbd26d7d8" />
 
-При:
-
-army.Attack();
 
 должны атаковать все персонажи.
 
